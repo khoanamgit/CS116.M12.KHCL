@@ -6,7 +6,7 @@
 * Năm học: HK1 (2021-2022)
 
 ### Giảng viên
-* Nguyễn Vĩnh Tiệp
+* Nguyễn Vĩnh Tiệp - tiepnv@uit.edu.vn
 
 ### Thông tin sinh viên
 
